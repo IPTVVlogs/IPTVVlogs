@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXT-X-TARGETDURATION:7
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:204982
+#EXT-X-PROGRAM-DATE-TIME:2022-02-07T06:46:32Z
+#EXTINF:6.000,
+https://live.neestream.com/neestream_01/kairalitv/2022/02/07/06/46/32-06000.ts
+#EXTINF:6.000,
+https://live.neestream.com/neestream_01/kairalitv/2022/02/07/06/46/38-06000.ts
+#EXTINF:6.000,
+https://live.neestream.com/neestream_01/kairalitv/2022/02/07/06/46/44-06000.ts
+#EXTINF:6.000,
+https://live.neestream.com/neestream_01/kairalitv/2022/02/07/06/46/50-06000.ts
