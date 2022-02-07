@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.000000,
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/staytuned0.ts
-#EXTINF:10.000000,
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/staytuned1.ts
+#EXTINF:10.000000,
+http://1445.myindian.tv/edge/19542/tracks-v1a1/mono.m3u8?token=48.1.9155.bd82d816cd6567ea4266b9b6c570ac96.1.2.2.961.0.0.68eee1f19aa37911ce2fb9cf673235d2
 #EXT-X-ENDLIST
