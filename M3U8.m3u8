@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.000000,
+https://raw.githubusercontent.com/naveenland4/UTLive/main/News7Tamil.m3u8
+#EXT-X-ENDLIST
