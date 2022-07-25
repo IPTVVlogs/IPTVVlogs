@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,FRAME-RATE=60.000
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Cartoon_Network_Hindi&q=600&e=.m3u8
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_TV_HD&q=800&e=.m3u8
