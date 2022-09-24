@@ -1,0 +1,3 @@
+jwplayer.key="64HPbvSQorQcd52B8XFuhMtEoitbvY/EXJmMBfKcXZQU2Rnn";
+var jw={"file":"https:\/\/dr1zhpsuem5f4.cloudfront.net\/master.m3u8","image":null,"color":"#0b7ef4","link":"https:\/\/m.mhdtv.in","logo":"","auto":"true","text":"Powered by JW Player","lposi":"top-left","flash":"https:\/\/m.mhdtv.in\/wp-content\/themes\/dooplay\/assets\/jwplayer\/jwplayer.flash.swf"};
+const player=jwplayer('player').setup({image:jw.image,mute:false,volume:25,autostart:jw.auto,repeat:false,abouttext:jw.text,aboutlink:jw.link,skin:{active:jw.color},logo:{file:jw.logo,hide:true,link:jw.link,margin:'15',position:jw.lposi},sources:[{file:jw.file,type:'video/mp4'}],});
